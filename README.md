@@ -7,10 +7,11 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Desenvolvedor Full Stack com foco em aplicações web e análise de dados<br>
-  📚 Atualmente estudando TypeScript, React com boas práticas, e testes automatizados com Jest e Storybook<br>
-  🎯 Objetivo: Atuar em projetos modernos, com foco em front-end e entregar experiências digitais escaláveis e intuitivas<br>
-  🎲 Fun fact: Já trabalhei com ERP, automações em Python, servidores, hospedagem de sites e suporte técnico
+  ✨ Desenvolvedor Full Stack com foco em aplicações web modernas, análise de dados e suporte técnico<br>
+  📚 Atualmente estudando TypeScript, React com boas práticas, testes automatizados com Jest e Storybook<br>
+  💼 Experiência com ERP, desenvolvimento em PHP (Laravel), automações em Python, hospedagem de sites e servidores<br>
+  🎯 Objetivo: Atuar em projetos inovadores, com foco em front-end e entregar experiências digitais escaláveis e intuitivas<br>
+  🎲 Curiosidade: Já atuei desde o suporte técnico até o desenvolvimento de sistemas completos para clínicas e e-commerces
 </p>
 
 ###
@@ -31,6 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
 </div>
@@ -56,9 +63,9 @@
 <h2 align="left">🚀 Highlight Projects</h2>
 
 <ul>
-  <li><a href="https://lucashenncarniel.github.io/" target="_blank">Portfólio / Currículo Online</a> – Uma página responsiva com tecnologias modernas e layout clean</li>
-  <li><a href="https://github.com/LucasHennCarniel/sistema-clinica" target="_blank">Sistema de Clínica (Extensão Unoesc)</a> – Projeto acadêmico em grupo com foco em organização e layout funcional</li>
-  <li><a href="https://github.com/LucasHennCarniel/agenda-contatos-python" target="_blank">Agenda de Contatos em Python</a> – CRUD com ordenação, ideal para treinar lógica e estrutura de dados</li>
+  <li><a href="https://lucashenncarniel.github.io/" target="_blank">Portfólio / Currículo Online</a> – Página pessoal com design moderno e responsivo</li>
+  <li><a href="https://github.com/LucasHennCarniel/sistema-clinica" target="_blank">Sistema de Clínica (Extensão Unoesc)</a> – Aplicação web colaborativa com foco em organização de agendamentos e pacientes</li>
+  <li><a href="https://github.com/LucasHennCarniel/agenda-contatos-python" target="_blank">Agenda de Contatos em Python</a> – Projeto CRUD com ordenação e foco em lógica e estruturas de dados</li>
 </ul>
 
 ###
@@ -69,4 +76,6 @@
   <li>Desenvolvimento Front-End com React JS – Plataforma interna</li>
   <li>Introdução à Análise de Dados com Python – Google/Coursera</li>
   <li>Fundamentos de UX Design – Google</li>
+  <li>Lógica de Programação e Algoritmos – DIO</li>
+  <li>Programação Orientada a Objetos com Java – DIO</li>
 </ul>
