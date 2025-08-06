@@ -7,11 +7,12 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  ✨ Desenvolvedor Full Stack com foco em aplicações web modernas, análise de dados e suporte técnico<br>
-  📚 Atualmente estudando TypeScript, React com boas práticas, testes automatizados com Jest e Storybook<br>
-  💼 Experiência com ERP, desenvolvimento em PHP (Laravel), automações em Python, hospedagem de sites e servidores<br>
-  🎯 Objetivo: Atuar em projetos inovadores, com foco em front-end e entregar experiências digitais escaláveis e intuitivas<br>
-  🎲 Curiosidade: Já atuei desde o suporte técnico até o desenvolvimento de sistemas completos para clínicas e e-commerces
+  ✨ Desenvolvedor Full Stack com foco em aplicações web modernas, suporte técnico e análise de dados<br>
+  💻 Experiência com desenvolvimento em PHP (Laravel e CodeIgniter), automações com Python e aplicações em React e Next.js<br>
+  📚 Atualmente estudando TypeScript, boas práticas com React, testes automatizados com Jest e Storybook<br>
+  🛠️ Atuação desde o suporte técnico até o desenvolvimento de sistemas completos para clínicas, e-commerces e projetos acadêmicos<br>
+  🌐 Domínio em hospedagem de sites, gestão de servidores, e-mails e otimização de interfaces<br>
+  🎯 Objetivo: Contribuir em projetos inovadores com foco em performance, escalabilidade e experiência do usuário
 </p>
 
 ###
@@ -34,6 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
