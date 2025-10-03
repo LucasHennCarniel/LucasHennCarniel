@@ -38,3 +38,48 @@ Sou um Desenvolvedor de Software com 3 anos de experiência e um perfil híbrido
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</div>
+
+###
+
+<h2 align="left">📫 Where to find me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-henn-5a9212292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://github.com/LucasHennCarniel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="mailto:lucashenn235@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
+
+###
+
+<h2 align="left">🚀 Highlight Projects</h2>
+
+<ul>
+  <li><a href="https://lucashenncarniel.github.io/" target="_blank">Portfólio / Currículo Online</a> – Página pessoal com design moderno e responsivo</li>
+  <li><a href="https://github.com/LucasHennCarniel/sistema-clinica" target="_blank">Sistema de Clínica (Extensão Unoesc)</a> – Aplicação web colaborativa com foco em organização de agendamentos e pacientes</li>
+  <li><a href="https://github.com/LucasHennCarniel/agenda-contatos-python" target="_blank">Agenda de Contatos em Python</a> – Projeto CRUD com ordenação e foco em lógica e estruturas de dados</li>
+</ul>
+
+###
+
+<h2 align="left">📜 Certifications</h2>
+
+<ul>
+  <li>Desenvolvimento Front-End com React JS – Plataforma interna</li>
+  <li>Introdução à Análise de Dados com Python – Google/Coursera</li>
+  <li>Fundamentos de UX Design – Google</li>
+  <li>Lógica de Programação e Algoritmos – DIO</li>
+  <li>Programação Orientada a Objetos com Java – DIO</li>
+</ul>
