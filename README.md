@@ -68,8 +68,9 @@ Sou um Desenvolvedor de Software com 3 anos de experiência e um perfil híbrido
 
 <ul>
   <li><a href="https://lucashenncarniel.github.io/" target="_blank">Portfólio / Currículo Online</a> – Página pessoal com design moderno e responsivo</li>
-  <li><a href="https://github.com/LucasHennCarniel/sistema-clinica" target="_blank">Sistema de Clínica (Extensão Unoesc)</a> – Aplicação web colaborativa com foco em organização de agendamentos e pacientes</li>
-  <li><a href="https://github.com/LucasHennCarniel/agenda-contatos-python" target="_blank">Agenda de Contatos em Python</a> – Projeto CRUD com ordenação e foco em lógica e estruturas de dados</li>
+  <li><a href="https://hennovadev.com.br/" target="_blank">Site de meu portifolio oficial feito com Type e React + Tailwind CSS, com paienl admin para atualização de portifólio e API do gmail integrada para recebimento de emails.</li>
+  <li><a href="https://devzgroup.com.br/" target="_blank">site feito para Devz Group, totalmente do zero desde UI/UX até a codificação final feito com Type e React.</li>
+  <li><a href="https://github.com/LucasHennCarniel/Planilha-ALS-" target="_blank">Sistema completo e profissional para gerenciamento de manutenção de veículos da frota ALS Transportes, BAT disponivél para dowload dentro do repositório necessário apenas rodar o bat ele irá criar a estrutura completa.</li>
 </ul>
 
 ###
@@ -82,4 +83,5 @@ Sou um Desenvolvedor de Software com 3 anos de experiência e um perfil híbrido
   <li>Fundamentos de UX Design – Google</li>
   <li>Lógica de Programação e Algoritmos – DIO</li>
   <li>Programação Orientada a Objetos com Java – DIO</li>
+  <li>Consultas Avançadas com MySQL - Alura</li>
 </ul>
