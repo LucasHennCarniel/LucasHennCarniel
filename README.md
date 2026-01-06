@@ -67,11 +67,20 @@ Sou um Desenvolvedor de Software com 3 anos de experiência e um perfil híbrido
 <h2 align="left">🚀 Highlight Projects</h2>
 
 <ul>
-  <li><a href="https://lucashenncarniel.github.io/" target="_blank">Portfólio / Currículo Online</a> – Página pessoal com design moderno e responsivo</li>
-  <li><a href="https://hennovadev.com.br/" target="_blank">Site de meu portifolio oficial feito com Type e React + Tailwind CSS, com paienl admin para atualização de portifólio e API do gmail integrada para recebimento de emails.</li>
-  <li><a href="https://devzgroup.com.br/" target="_blank">site feito para Devz Group, totalmente do zero desde UI/UX até a codificação final feito com Type e React.</li>
-  <li><a href="https://github.com/LucasHennCarniel/Planilha-ALS-" target="_blank">Sistema completo e profissional para gerenciamento de manutenção de veículos da frota ALS Transportes, BAT disponivél para dowload dentro do repositório necessário apenas rodar o bat ele irá criar a estrutura completa.</li>
+  <li>
+    <a href="https://lucashenncarniel.github.io/" target="_blank">Portfólio / Currículo Online</a> – Página pessoal com design moderno e totalmente responsivo
+  </li>
+  <li>
+    <a href="https://hennovadev.com.br/" target="_blank">HennovaDev</a> – Site de portfólio profissional desenvolvido com TypeScript, React e Tailwind CSS. Inclui painel administrativo para gerenciamento de conteúdo e integração com API do Gmail para recebimento de mensagens
+  </li>
+  <li>
+    <a href="https://devzgroup.com.br/" target="_blank">Devz Group</a> – Website corporativo desenvolvido do zero, desde o UI/UX design até a codificação final, utilizando TypeScript e React
+  </li>
+  <li>
+    <a href="https://github.com/LucasHennCarniel/Planilha-ALS-" target="_blank">Sistema de Gerenciamento de Frota ALS</a> – Solução completa e profissional para gestão de manutenção de veículos da frota ALS Transportes. Inclui instalador automatizado (.bat) que configura toda a estrutura do sistema
+  </li>
 </ul>
+
 
 ###
 
