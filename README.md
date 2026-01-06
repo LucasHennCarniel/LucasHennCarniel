@@ -7,8 +7,9 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-Sou um Desenvolvedor de Software com 3 anos de experiência e um perfil híbrido que une desenvolvimento backend, análise de dados e a automação de DevOps. Com uma base sólida em <strong>PHP (Laravel)</strong> e <strong>Node.js</strong>, estou expandindo ativamente minhas habilidades em <strong>DevOps</strong> e <strong>Cloud</strong> com ferramentas como <strong>Docker</strong>, <strong>Kubernetes</strong> e <strong>AWS</strong>. Sou apaixonado por construir soluções completas e eficientes, desde a primeira linha de código até a infraestrutura em nuvem.
+Sou um Desenvolvedor de Software com 3 anos de experiência e um perfil híbrido que une desenvolvimento backend, análise de dados e automação de DevOps. Atualmente, atuo como <strong>Desenvolvedor de Sistema I na UNOESC</strong>, onde aplico e aprimoro minhas habilidades técnicas em projetos reais. Com uma base sólida em <strong>PHP (Laravel)</strong> e <strong>Node.js</strong>, estou expandindo ativamente minhas competências em <strong>DevOps</strong> e <strong>Cloud</strong> com ferramentas como <strong>Docker</strong>, <strong>Kubernetes</strong> e <strong>AWS</strong>. Sou apaixonado por construir soluções completas e eficientes, desde a primeira linha de código até a infraestrutura em nuvem.
 </p>
+
 
 ###
 
